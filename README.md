@@ -33,7 +33,7 @@ Our idea is to build a website which will serve as a complete guide to a women's
 - Download & install [Xampp](https://www.apachefriends.org/download.html)
 - Download the Zip or clone the repository
 ``` bash
-git clone https://github.com/aryansarkar13/Swawlambi.git
+git clone https://github.com/SanjeebNath382/sashakti.git
 ```
 - Go to the directory where Xampp is installed. For eg. C:\xampp\htdocs
 - Copy the project folder and paste it in the address mentioned above.
