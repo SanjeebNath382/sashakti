@@ -1,5 +1,9 @@
 # Sashakti
 
+## Overview
+
+Our idea is to build a website which will serve as a complete guide to a women's mental and physical health and well being. We aim at spreading awareness about health which is often neglected among women. Our website plans to constitute various features such as tracking of menstruation cycles, a quick general healthcare check up, a personal medical diary, mental health wellness and fitness blogs, a recreation or resources page, connect with doctors, etc.
+
 ## Technology Stack
 
 ### Web Technology
