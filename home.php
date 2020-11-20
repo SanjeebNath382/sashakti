@@ -19,6 +19,7 @@
  
 </header>
 <body>
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -28,6 +29,9 @@
 =======
 >>>>>>> c0e5080... form added
 =======
+=======
+
+>>>>>>> d20b90c9f798721b039632647b68e6fa64509081
   <div id="health-tracker-card">
     <h1 style="color:white; font-size:72px;">Health Tracker</h1>
     <img src="assets/health-track-img.png" id="health-track-img">
@@ -45,6 +49,9 @@
       </div>
     </div>
   </div>
+<<<<<<< HEAD
 >>>>>>> d20b90c... folder structure updated
+=======
+>>>>>>> d20b90c9f798721b039632647b68e6fa64509081
 </body>
 <html>
