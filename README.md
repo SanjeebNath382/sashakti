@@ -27,3 +27,13 @@ git clone https://github.com/aryansarkar13/Swawlambi.git
 - Copy the project folder and paste it in the address mentioned above.
 - Launch any browser window and search localhost/swawlambi.
 - Voila, explore and enjoy!
+
+## Our Team
+
+* Aryan Sarkar
+* Sanjeeb Nath
+* Anjali Patle
+* Anany Sharma
+* Sakshi Bhandarkar
+
+### More power to women!
