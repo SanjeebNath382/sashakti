@@ -5,7 +5,7 @@ Official submission for Hack4She 2020 Hackathon.
 
 <p align="center">
   <a href="https://sanscript.tech/">
-    <img src="./assests/icon.png" alt="Logo" style="width:100px;height:200px;">
+    <img src="./assests/icon.png" alt="Logo" width="300">
   </a>
 
 ## Overview
