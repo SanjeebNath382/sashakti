@@ -9,11 +9,15 @@
 <header id="header">
   <div id="brand">
 <<<<<<< HEAD
+<<<<<<< HEAD
      <img id="header-img" src="assets/icon.png" href="home.php"/>
 =======
      <img id="header-img" src="./assests/icon.png" href="home.php"/>
      
 >>>>>>> c0e5080... form added
+=======
+     <img id="header-img" src="assets/icon.png" href="home.php"/>
+>>>>>>> d20b90c... folder structure updated
   </div>
   <nav id="nav-bar">
     <a class="nav-link" href="#">Check Health Status</a>
@@ -24,6 +28,7 @@
  
 </header>
 <body>
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -34,6 +39,9 @@
 =======
 >>>>>>> c0e5080... form added
 =======
+=======
+
+>>>>>>> d20b90c... folder structure updated
   <div id="health-tracker-card">
     <h1 style="color:white; font-size:72px;">Health Tracker</h1>
     <img src="assets/health-track-img.png" id="health-track-img">
@@ -51,8 +59,11 @@
       </div>
     </div>
   </div>
+<<<<<<< HEAD
 >>>>>>> d20b90c... folder structure updated
 =======
 >>>>>>> c0e5080... form added
+=======
+>>>>>>> d20b90c... folder structure updated
 </body>
 <html>
