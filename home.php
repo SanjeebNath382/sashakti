@@ -14,10 +14,13 @@
 =======
      <img id="header-img" src="./assests/icon.png" href="home.php"/>
      
+<<<<<<< HEAD
 >>>>>>> c0e5080... form added
 =======
      <img id="header-img" src="assets/icon.png" href="home.php"/>
 >>>>>>> d20b90c... folder structure updated
+=======
+>>>>>>> c0e5080... form added
   </div>
   <nav id="nav-bar">
     <a class="nav-link" href="#">Check Health Status</a>
@@ -33,6 +36,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 
@@ -65,5 +69,7 @@
 >>>>>>> c0e5080... form added
 =======
 >>>>>>> d20b90c... folder structure updated
+=======
+>>>>>>> c0e5080... form added
 </body>
 <html>
