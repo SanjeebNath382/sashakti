@@ -37,7 +37,7 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 ```
 - Go to the directory where Xampp is installed. For eg. C:\xampp\htdocs
 - Copy the project folder and paste it in the address mentioned above.
-- Launch any browser window and search localhost/swawlambi.
+- Launch any browser window and search localhost/sashakti.
 - Voila, explore and enjoy!
 
 ## Our Team
