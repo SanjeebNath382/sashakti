@@ -4,7 +4,7 @@ A website aimed at spreading awareness and providing solution to issues related 
 Official submission for Hack4She 2020 Hackathon.
 
 <p align="center">
-    <img src="./assests/icon.png" alt="Logo" width="300">
+    <img src="./assets/icon.png" alt="Logo" width="300">
   </a>
 
 ## Overview
