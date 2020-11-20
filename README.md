@@ -1,4 +1,4 @@
-# sashakti
+# Sashakti
 
 ## Technology Stack
 
