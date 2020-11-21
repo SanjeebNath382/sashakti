@@ -65,7 +65,7 @@ input[type=submit]:hover {
     </div>
     <br>
     <div>
-      <label>About how often did you feel nervous?</label><br><br>
+      <label><b>Q2</b> About how often did you feel nervous?</label><br><br>
       
       <label for="none">None of the time</label>
       <input type="radio" id="none" name="option" value="none">
@@ -84,7 +84,7 @@ input[type=submit]:hover {
       </div>
       <br>
       <div>
-        <label>About how often did you feel so nervous that nothing could calm you down?</label><br><br>
+        <label><b>Q3</b> About how often did you feel so nervous that nothing could calm you down?</label><br><br>
         
         <label for="none">None of the time</label>
         <input type="radio" id="none" name="option" value="none">
@@ -103,7 +103,7 @@ input[type=submit]:hover {
         </div>
         <br>
         <div>
-          <label>About how often did you feel hopeless?</label><br><br>
+          <label><b>Q4</b> About how often did you feel hopeless?</label><br><br>
           
           <label for="none">None of the time</label>
           <input type="radio" id="none" name="option" value="none">
@@ -122,7 +122,7 @@ input[type=submit]:hover {
           </div>
           <br>
           <div>
-            <label>About how often did you feel restless or fidgety?</label><br><br>
+            <label><b>Q5</b> About how often did you feel restless or fidgety?</label><br><br>
             
             <label for="none">None of the time</label>
             <input type="radio" id="none" name="option" value="none">
@@ -141,7 +141,7 @@ input[type=submit]:hover {
             </div>
             <br>
             <div>
-              <label>About how often did you feel so restless you could not sit still?</label><br><br>
+              <label><b>Q6</b> About how often did you feel so restless you could not sit still?</label><br><br>
               
               <label for="none">None of the time</label>
               <input type="radio" id="none" name="option" value="none">
@@ -160,7 +160,7 @@ input[type=submit]:hover {
               </div>
               <br>
               <div>
-                <label>About how often did you feel depressed?</label><br><br>
+                <label><b>Q7</b> About how often did you feel depressed?</label><br><br>
                 
                 <label for="none">None of the time</label>
                 <input type="radio" id="none" name="option" value="none">
@@ -179,7 +179,7 @@ input[type=submit]:hover {
                 </div>
                 <br>
                 <div>
-                  <label>About how often did you feel that everything was an effort?</label><br><br>
+                  <label><b>Q8</b> About how often did you feel that everything was an effort?</label><br><br>
                   
                   <label for="none">None of the time</label>
                   <input type="radio" id="none" name="option" value="none">
@@ -198,7 +198,7 @@ input[type=submit]:hover {
                   </div>
                   <br>
                   <div>
-                    <label>About how often did you feel so sad that nothing could cheer you up?</label><br><br>
+                    <label><b>Q9</b> About how often did you feel so sad that nothing could cheer you up?</label><br><br>
                     
                     <label for="none">None of the time</label>
                     <input type="radio" id="none" name="option" value="none">
@@ -217,7 +217,7 @@ input[type=submit]:hover {
                     </div>
                     <br>
                     <div>
-                      <label>About how often did you feel worthless?</label><br><br>
+                      <label><b>Q10</b> About how often did you feel worthless?</label><br><br>
                       
                       <label for="none">None of the time</label>
                       <input type="radio" id="none" name="option" value="none">
