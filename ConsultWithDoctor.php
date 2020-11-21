@@ -1,8 +1,21 @@
 <html>
 <head>
   <link rel="stylesheet" href="./CSS/consult.css">
+  <link rel="stylesheet" href="CSS/home-style.css">
 </head>
-<body>
+<header id="header">
+  <div id="brand">
+     <img id="header-img" src="assets/icon.png" href="home.php"/>
+  </div>
+  <nav id="nav-bar">
+    <a class="nav-link" href="home.php">Home</a>
+    <a class="nav-link" href="FindGroup.php">Events</a>
+    <a class="nav-link" href="ConsultWithDoctor.php">Consult</a>
+    <a class="nav-link" href="Blog.php">Blog</a>
+    <a class="nav-link" href="profile.php">Profile</a>
+  </nav>
+</header>
+<body style="margin-top: 200px;">
     <div id="home-content">
     <h1 style="font-size:50px; color:#ff3256">Connect with Doctors and Counselor</h1>
     </div>

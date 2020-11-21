@@ -11,10 +11,11 @@
      <img id="header-img" src="assets/icon.png" href="home.php"/>
   </div>
   <nav id="nav-bar">
-    <a class="nav-link" href="MentalAndPhysical.php">Check Health Status</a>
-    <a class="nav-link" href="FindGroup.php">Find events/groups</a>
-    <a class="nav-link" href="ConsultWithDoctor.php">Connect to Doctor/Counsellor</a>
+    <a class="nav-link" href="home.php">Home</a>
+    <a class="nav-link" href="FindGroup.php">Events</a>
+    <a class="nav-link" href="ConsultWithDoctor.php">Consult</a>
     <a class="nav-link" href="Blog.php">Blog</a>
+    <a class="nav-link" href="profile.php">Profile</a>
   </nav>
 </header>
 <body>

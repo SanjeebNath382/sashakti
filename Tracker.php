@@ -59,13 +59,26 @@ $t=0;$p1=0;
 ?>
 <html>
 <head>
+<link rel="stylesheet" href="CSS/home-style.css">
   <link rel="stylesheet" href="tracker.css">
   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 </head>
-<body>
+<header id="header">
+  <div id="brand">
+     <img id="header-img" src="assets/icon.png" href="home.php"/>
+  </div>
+  <nav id="nav-bar" style="display: flex;">
+    <a class="nav-link" href="home.php">Home</a>
+    <a class="nav-link" href="FindGroup.php">Events</a>
+    <a class="nav-link" href="ConsultWithDoctor.php">Consult</a>
+    <a class="nav-link" href="Blog.php">Blog</a>
+    <a class="nav-link" href="profile.php">Profile</a>
+  </nav>
+</header>
+<body style="margin-top: 200px;">
     <div>
         <div id="track-head">
             <img id="track-page-img" src="assets/health-tracker-page-img.jpg">
