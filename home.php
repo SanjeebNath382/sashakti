@@ -20,22 +20,22 @@
 <body>
 
   <div id="health-tracker-card">
-    <a href="MentalAndPhysical.php"><h1 style="color:white; font-size:72px;">Check your<br> health status</h1></a>
+    <a href="MentalAndPhysical.php" style="text-decoration:none;"><h1 style="color:white; font-size:72px;">Check your<br> health status</h1></a>
     <img src="assets/health-track-img.png" id="health-track-img">
   </div>
   <div id="period-tracker-card">
-    <a href="Tracker.php"><h1 style="color:white; font-size:48px;">Period Tracker</h1></a>
+    <a href="Tracker.php" style="text-decoration:none;"><h1 style="color:white; font-size:48px;">Period Tracker</h1></a>
   </div>
   <div>
     <div style="display:flex; justify-content:center;">
       <div id="sub-card">
-       <a href="DietPlans.php"> <h1 style="color:white; margin:60px 15px 0px 15px;">Nutrition and Diet Plans</h1></a>
+       <a href="DietPlans.php" style="text-decoration:none;"> <h1 style="color:white; margin:60px 15px 0px 15px;">Nutrition and Diet Plans</h1></a>
       </div>
       <div id="sub-card">
-        <a href="forum.php"><h1 style="color:white; margin:60px 15px 0px 15px;">Community Forum</h1></a>
+        <a href="forum.php" style="text-decoration:none;"><h1 style="color:white; margin:60px 15px 0px 15px;">Community Forum</h1></a>
       </div>
       <div id="sub-card">
-        <a href="Products.php"><h1 style="color:white; margin:60px 15px 0px 15px;">Wellness Products</h1></a>
+        <a href="Products.php" style="text-decoration:none;"><h1 style="color:white; margin:60px 15px 0px 15px;">Wellness Products</h1></a>
       </div>
     </div>
   </div>
