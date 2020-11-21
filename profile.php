@@ -1,3 +1,12 @@
+<?php 
+ session_start();
+  require_once('config.php');
+  $uid= $_SESSION['id'];
+  $query="SELECT * FROM users WHERE userid='$uid'";
+  $res= $con->query($query);
+  $row= $res->fetch_array();
+  $name= $row['name'];
+?>
 <html>
 <head>
 <br>
@@ -46,9 +55,9 @@ button:hover, a:hover {
 <div class="card">
  <!-- <img src="person-icon-female-user-profile-avatar-vector-18833553.jpg" alt="User" style="width:100%"> -->
   <br>
-  <h2>Sakshi Bhandarkar</h2>
+  <h2><?php echo $name;?></h2>
   <p class="title">Patient</p>
-  <p>Email- sakshi@gmail.com</p>
+  <p>Email- admin@gmail.com</p>
   <div style="margin: 24px 0;">
   </div>
   <p><button >Contact</button></p>

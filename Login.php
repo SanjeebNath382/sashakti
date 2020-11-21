@@ -1,10 +1,11 @@
 <?php
     session_start();
     if(isset($_POST['submit'])){
-        $server= "localhost";
-        $username="root";
-        $password="";
-        $con= mysqli_connect($server,$username,$password,'sashakti');
+        require_once('config.php');
+        // $server= "localhost";
+        // $username="root";
+        // $password="";
+        // $con= mysqli_connect($server,$username,$password,'sashakti');
         $u_name= $_POST['u_name'];
         $pass= $_POST['pass'];
         $password1= crypt($pass,$u_name);

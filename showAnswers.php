@@ -1,9 +1,10 @@
 <?php 
     $qid= $_GET['questionid'];
-    $server= "localhost";
-    $username="root";
-    $password="";
-    $con= mysqli_connect($server,$username,$password,'sashakti');
+    // $server= "localhost";
+    // $username="root";
+    // $password="";
+    // $con= mysqli_connect($server,$username,$password,'sashakti');
+    require_once('config.php');
 ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">

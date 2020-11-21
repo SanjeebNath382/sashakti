@@ -1,10 +1,11 @@
 <?php
   if(isset($_POST['submit'])){
     session_start();
-    $server= "localhost";
-    $username="root";
-    $password="";
-    $con= mysqli_connect($server,$username,$password,'sashakti');
+    require_once('config.php');
+    // $server= "localhost";
+    // $username="root";
+    // $password="";
+    // $con= mysqli_connect($server,$username,$password,'sashakti');
     $question= $_POST['question'];
     $category= $_POST['category'];
     $qid= uniqid($question);

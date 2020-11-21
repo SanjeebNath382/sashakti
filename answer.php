@@ -1,9 +1,10 @@
 <?php
     $qid= $_GET['questionid'];
-    $server= "localhost";
-    $username="root";
-    $password="";
-    $con= mysqli_connect($server,$username,$password,'sashakti');
+    // $server= "localhost";
+    // $username="root";
+    // $password="";
+    // $con= mysqli_connect($server,$username,$password,'sashakti');
+    require_once('config.php');
     $query= "SELECT * FROM questions WHERE qid='$qid'";
     $result= $con->query($query);
     $row= $result->fetch_array();
