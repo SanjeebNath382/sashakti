@@ -46,7 +46,7 @@ input[type=submit]:hover {
 <div class="container">
   <form method="post">
     <div>
-    <label>About how often did you feel tired out for no good reason?</label><br><br>
+    <label><b>Q1</b> About how often did you feel tired out for no good reason?</label><br><br>
     
     <label for="none">None of the time</label>
     <input type="radio" id="none" name="option" value="none">
