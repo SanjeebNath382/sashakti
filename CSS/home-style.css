@@ -26,7 +26,7 @@ header{
     background: -webkit-linear-gradient(-45deg,  #18ba9c 0%,#4ad6aa 68%,#4cd6db 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(135deg,  #18ba9c 0%,#4ad6aa 68%,#4cd6db 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#18ba9c', endColorstr='#4cd6db',GradientType=1 ); IE6-9 :fallback on horizontal gradient;
-    background:#c9c9c9;
+    background:#2d2525;
     display:flex !important;
     justify-content:space-between !important;
     align-items:center !important;
@@ -70,6 +70,28 @@ nav{
     justify-content:space-around;
 }
 #health-tracker-card:hover{
+    box-shadow: 0px 5px 5px grey;
+    cursor:pointer;
+}
+#period-tracker-card{
+    margin:2% 15% 0% 15%;
+    width:70%;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b4e391+0,61c419+100,b4e391+100 */
+    background: #b4e391; /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #b4e391 0%, #61c419 100%, #b4e391 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  #b4e391 0%,#61c419 100%,#b4e391 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  #b4e391 0%,#61c419 100%,#b4e391 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4e391', endColorstr='#b4e391',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    height:100px;
+    border-radius:5px;
+    box-shadow: 0px 2px 2px grey;
+    display:flex;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:space-around;
+}
+#period-tracker-card:hover{
     box-shadow: 0px 5px 5px grey;
     cursor:pointer;
 }
