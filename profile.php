@@ -9,6 +9,7 @@
 ?>
 <html>
 <head>
+<link rel="stylesheet" href="CSS/home-style.css">
 <br>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -48,8 +49,21 @@ button:hover, a:hover {
   opacity: 0.7;
 }
 </style>
+
 </head>
-<body>
+<header id="header">
+  <div id="brand">
+     <img id="header-img" src="assets/icon.png" href="home.php"/>
+  </div>
+  <nav id="nav-bar">
+    <a class="nav-link" href="home.php">Home</a>
+    <a class="nav-link" href="FindGroup.php">Events</a>
+    <a class="nav-link" href="ConsultWithDoctor.php">Consult</a>
+    <a class="nav-link" href="Blog.php">Blog</a>
+    <a class="nav-link" href="profile.php">Profile</a>
+  </nav>
+</header>
+<body style="margin-top: 100px;">
 
 <h1 style="margin-left:42%;margin-top:5%;color:#ff3256;font-family: Brush Script MT, Brush Script Std, cursive;font-size:50px"><b>My Profile</b></h1><br>
 <div class="card">
@@ -62,6 +76,10 @@ button:hover, a:hover {
   </div>
   <p><button >Contact</button></p>
 </div>
+<br>
+<div class="card" style="background-color: #ff3256;padding:0.5%">
+  <h1 style="color:white; font-size:25px;"><a  style="text-decoration:none;color:antiquewhite" href="MedicalHistory.php">Record <br>Medical History</a></h1>
+  </div>
 
 </body>
 </html>

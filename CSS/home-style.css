@@ -36,9 +36,10 @@ header{
 }
 nav{
     display:flex;
-    margin-right:15%;
+    margin-right:20%;
     justify-content:space-evenly;
     align-items:center;
+    
 }
 .nav-link{
     min-width:40%;

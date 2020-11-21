@@ -20,6 +20,7 @@
 ?>
 <html>
 <head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {font-family: Arial, Helvetica, sans-serif;
@@ -57,6 +58,7 @@ input[type=submit]:hover {
 }
 </style>
 </head>
+
 <body>
 <div id="form-head">
     <img src="./assets/icon.png" id="form-img"></img>

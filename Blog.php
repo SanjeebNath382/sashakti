@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="CSS/home-style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -20,6 +21,8 @@ body {
   font-size: 40px;
   text-align: center;
   background: white;
+  display:flex;
+  justify-content:center;
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -38,7 +41,7 @@ body {
 
 /* Fake image */
 .fakeimg {
-  background-color: #aaa;
+  background-color: #d3f2f8;
   width: 100%;
   padding: 20px;
 }
@@ -48,6 +51,7 @@ body {
    background-color: white;
    padding: 20px;
    margin-top: 20px;
+   border:2px solid #ff3256;
 }
 
 /* Clear floats after the columns */
@@ -73,8 +77,21 @@ body {
   }
 }
 </style>
+
 </head>
-<body>
+<header id="header">
+  <div id="brand">
+     <img id="header-img" src="assets/icon.png" href="home.php"/>
+  </div>
+  <nav id="nav-bar">
+    <a class="nav-link" href="home.php">Home</a>
+    <a class="nav-link" href="FindGroup.php">Events</a>
+    <a class="nav-link" href="ConsultWithDoctor.php">Consult</a>
+    <a class="nav-link" href="Blog.php">Blog</a>
+    <a class="nav-link" href="profile.php">Profile</a>
+  </nav>
+</header>
+<body style="margin-top: 100px;">
 
 <div class="header">
   <h2 style="color:#ff3256">Sashakti Blogs</h2>
@@ -83,20 +100,20 @@ body {
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>My Anxiety Story</h2>
+      <h2 style="color:#ff3256">My Anxiety Story</h2>
       <h5>Annie Pruthi, Dec 7, 2017</h5>
       <div class="fakeimg" style="height:200px;">No Image</div>
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     </div>
     <div class="card">
-      <h2>My body size doesn't defines me!</h2>
+      <h2 style="color:#ff3256">My body size doesn't defines me!</h2>
       <h5>Shriya Tanwar, Sep 2, 2017</h5>
       <div class="fakeimg" style="height:200px;">No Image</div>
       <p>Some text..</p>
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     </div>
 	<div class="card">
-      <h2>The Pink Scam?!</h2>
+      <h2 style="color:#ff3256">The Pink Scam?!</h2>
       <h5>Archana Mittal, Sep 2, 2017</h5>
       <div class="fakeimg" style="height:200px;">No Image</div>
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>

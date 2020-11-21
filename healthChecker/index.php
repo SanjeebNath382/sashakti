@@ -3,6 +3,7 @@
 
 <head>
     <title></title>
+    <link rel="stylesheet" href="../CSS/home-style.css">
     <link rel="stylesheet" type="text/css" href="symptom_selector/selector.css?v=1">
     <link rel="stylesheet" type="text/css" href="symptom_selector/fontawesome/assets/css/font-awesome.min.css" />
     <script src="libs/jquery-1.12.2.min.js"></script>
@@ -52,8 +53,20 @@
 
 	
 </head>
-<body>
-
+<header id="header">
+  <div id="brand">
+     <img id="header-img" src="../assets/icon.png" href="home.php"/>
+  </div>
+  <nav id="nav-bar">
+    <a class="nav-link" href="../home.php">Home</a>
+    <a class="nav-link" href="../FindGroup.php">Events</a>
+    <a class="nav-link" href="../ConsultWithDoctor.php">Consult</a>
+    <a class="nav-link" href="../Blog.php">Blog</a>
+    <a class="nav-link" href="../profile.php">Profile</a>
+  </nav>
+</header>
+<body style="margin-top:150px;">
+<h1 style="margin-left:42%;color:#ff3256;font-family: Brush Script MT, Brush Script Std, cursive;font-size:20px"><b>Physical Health Checker</b></h1><br>
     <table class="container-table">
         <tr>
             <td valign="middle" colspan="2" class="td-header box-white bordered-box width50"><h4 class="header" id="selectSymptomsTitle"><span class="badge pull-left badge-primary visible-lg margin5R">1</span></h4></td>

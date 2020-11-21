@@ -21,6 +21,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+  <link rel="stylesheet" href="CSS/home-style.css">
     <meta charset="utf-8">
 
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" rel="stylesheet">
@@ -72,7 +73,19 @@ body {
 
 </style>
   </head>
-  <body>
+  <header id="header">
+  <div id="brand">
+     <img id="header-img" src="assets/icon.png" href="home.php"/>
+  </div>
+  <nav id="nav-bar" style="display: flex;">
+    <a class="nav-link" href="home.php">Home</a>
+    <a class="nav-link" href="FindGroup.php">Events</a>
+    <a class="nav-link" href="ConsultWithDoctor.php">Consult</a>
+    <a class="nav-link" href="Blog.php">Blog</a>
+    <a class="nav-link" href="profile.php">Profile</a>
+  </nav>
+</header>
+  <body style="margin-top: 150px;">
     <div style="margin-left: 30%;">
     <h1 style="margin-top:5%;margin-left:5%;color:#ff3256;font-family: Brush Script MT, Brush Script Std, cursive;"><b>Welcome to our Forum!</b></h1><br>
     <a href="question.php"><button style="border-radius:20px; box-shadow: 2px;margin-left:15%; background-color:#27f58e; width:250px">Ask a question</button></a> <br>

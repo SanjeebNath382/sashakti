@@ -1,8 +1,21 @@
 <html>
 <head>
+<link rel="stylesheet" href="CSS/home-style.css">
   <link rel="stylesheet" href="./CSS/product-style.css">
 </head>
-<body>
+<header id="header">
+  <div id="brand">
+     <img id="header-img" src="assets/icon.png" href="home.php"/>
+  </div>
+  <nav id="nav-bar">
+    <a class="nav-link" href="home.php">Home</a>
+    <a class="nav-link" href="FindGroup.php">Events</a>
+    <a class="nav-link" href="ConsultWithDoctor.php">Consult</a>
+    <a class="nav-link" href="Blog.php">Blog</a>
+    <a class="nav-link" href="profile.php">Profile</a>
+  </nav>
+</header>
+<body style="margin-top: 150px;">
     <div id="home-content">
     <input type="text" id="search-product" placeholder="Search products"></input>
     </div>
