@@ -43,11 +43,15 @@
     </head>
     <body>
         <div id="form-head">
-            <h2 style="text-align: center; font-size:40px; color:#ff3256; margin:2%;">Your Analysis- <div style="color:#45a049"> High mental Health</div></h2>
+            <h2 style="text-align: center; font-size:40px; color:#ff3256; margin:2%;">Your Analysis- <div style="color:#ef0f0f">Low mental Health</div></h2>
         </div> 
         <div id="low-result">
-            <p>Your results indicate that your mental well-being is good! Changing moods are a part of life, and its crucial to take care of your 
-            mental health to feel your best. Check out other resources on our website to help boost your mental well-being, or check out our forum for any questions you have.</p>
-        </div>
+            <p>Your results indicate that your mental well-being is low. We recommend you seek support from a professional mental health practitioner. Talking
+            to someone you trust can also help. Contact a therapist or counselor to gain proper suggestion on how to deal with your mental health issues.
+            </p>
+            <p>
+                Incase you have severe negative thoughts, reach out to the dedicated helplines immediately. Taking the first step towards getting support can make a difference.
+                <p>Suicide prevention helpline: 9152987821<br>Mental Health Helpline: 1800-599-0019</p>
+            </p></div>
     </body>
     </html>
