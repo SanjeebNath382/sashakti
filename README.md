@@ -24,7 +24,9 @@ Our idea is to build a website which will serve as a complete guide to a women's
 * Community Forum
 * Expert Consultancy
 * Video Chat with Experts
+* Medical History
 * Shop Health, Fitness and Wellness Products
+
 
 ## Technology Stack
 
@@ -54,6 +56,14 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 - Copy the project folder and paste it in the address mentioned above.
 - Launch any browser window and search localhost/sashakti.
 - Voila, explore and enjoy!
+
+## Screenshots
+
+<img src="Screenshots/s1.jpeg" width="300">
+<img src="Screenshots/s2.jpeg" width="300">
+<img src="Screenshots/s3.jpeg" width="300">
+<img src="Screenshots/s4.jpeg" width="300">
+<img src="Screenshots/s5.jpeg" width="300">
 
 ## Our Team
 
