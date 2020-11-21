@@ -11,6 +11,19 @@ Official submission for Hack4She 2020 Hackathon.
 
 Our idea is to build a website which will serve as a complete guide to a women's mental and physical health and well being. We aim at spreading awareness about health which is often neglected among women. Our website plans to constitute various features such as tracking of menstruation cycles, a quick general healthcare check up, mental health wellness and fitness blogs, a recreation or resources page, connect with doctors,Forum where women can discuss and share experiences etc.
 
+## Features
+
+* User Authentication
+* General Health Diagnosis
+* Mental Health Diagnosis
+* Menstrual Cycle Tracker
+* Diet Planner
+* Blogs
+* Community Forum
+* Expert Consultancy
+* Video Chat with Experts
+* Shop Health, Fitness and Welness Products
+
 ## Technology Stack
 
 ### Web Technology
