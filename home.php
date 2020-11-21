@@ -11,16 +11,15 @@
      <img id="header-img" src="assets/icon.png" href="home.php"/>
   </div>
   <nav id="nav-bar">
-    <a class="nav-link" href="PhysicalHealthForm.php">Check Health Status</a>
+    <a class="nav-link" href="#">Check Health Status</a>
     <a class="nav-link" href="#">Find events/groups</a>
-    <a class="nav-link" href="ConsultWithDoctor.php">Connect to Doctor/Counsellor</a>
-    <!-- <a class="nav-link" href="#">Login</a>
-    <a class="nav-link" href="#">Signup</a> -->
+    <a class="nav-link" href="#">Connect to Doctor/Counsellor</a>
+    <a class="nav-link" href="#">Blog</a>
   </nav>
 </header>
 <body>
 
-<div id="health-tracker-card">
+  <div id="health-tracker-card">
     <h1 style="color:white; font-size:72px;">Check your<br> health status</h1>
     <img src="assets/health-track-img.png" id="health-track-img">
   </div>
