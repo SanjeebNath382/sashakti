@@ -18,11 +18,13 @@ Our idea is to build a website which will serve as a complete guide to a women's
 * Mental Health Diagnosis
 * Menstrual Cycle Tracker
 * Diet Planner
+* Calendar Alerts
 * Blogs
+* Health and Fitness Events
 * Community Forum
 * Expert Consultancy
 * Video Chat with Experts
-* Shop Health, Fitness and Welness Products
+* Shop Health, Fitness and Wellness Products
 
 ## Technology Stack
 
@@ -31,6 +33,7 @@ Our idea is to build a website which will serve as a complete guide to a women's
 - Frontend
   - HTML
   - CSS
+  - JavaScript
   
 - Backend
   - PHP
