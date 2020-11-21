@@ -9,7 +9,7 @@
     <div id="content-home">
             <div id='product-results'>
                 <div class='product-card'>
-                <img src='images/p1.jpeg' class='product-img'></img>
+                <img src='./assets/p1.jpeg' class='product-img'></img>
                     <a href='https://www.amazon.in/Reusable-Menstrual-Women-Medical-Silicone/dp/B07WZP3NPQ/ref=sr_1_3_sspa?dchild=1&keywords=menstrual+cup&qid=1605903686&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRRjJQV0I2QTNYSVEmZW5jcnlwdGVkSWQ9QTA5NjIzNzYzVE04T0xUT0tWTDQzJmVuY3J5cHRlZEFkSWQ9QTAwMjEwNDExMzdEVk9IV0Q4SkYmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl' style='text-decoration:none;color:black;'>
                     <div class='product-content'>
                         <h1 class='product-name'>Menstrual Cup</h1>
@@ -19,7 +19,7 @@
             </div>
             <div id="product-results">
                 <div class="product-card">
-                    <img src="images/p2.jpg" class="product-img"></img>
+                    <img src="./assets/p2.jpg" class="product-img"></img>
                     <a href="https://www.amazon.in/dp/B00S6KDGNE/ref=cm_sw_r_wa_apa_i_9xcUFbD6ZA55T?_encoding=UTF8&psc=1" style="text-decoration:none;color:black;">
                     <div class="product-content">
                         <h1 class="product-name">Hygeine Wash</h1>
@@ -29,7 +29,7 @@
             </div>
             <div id="product-results">
                 <div class="product-card">
-                    <img src="images/p3.jpg" class="product-img"></img>
+                    <img src="./assets/p3.jpg" class="product-img"></img>
                     <a href="https://www.amazon.in/Siddhayu-Painquit-Natural-Ayurvedic-Muscular/dp/B08CH2X993" style="text-decoration:none;color:black;">
                     <div class="product-content">
                         <h1 class="product-name">Pain-relief roll on</h1>
@@ -39,7 +39,7 @@
             </div>
             <div id="product-results">
                 <div class="product-card">
-                    <img src="images/p4.jpg" class="product-img"></img>
+                    <img src="./assets/p4.jpg" class="product-img"></img>
                     <a href="https://www.amazon.in/dp/B084ZKFR5Q/ref=cm_sw_r_wa_apa_i_HwcUFb9QB625J" style="text-decoration:none;color:black;">
                     <div class="product-content">
                         <h1 class="product-name">Multi-vitamin Supplement</h1>
@@ -49,7 +49,7 @@
             </div>
             <div id="product-results">
                 <div class="product-card">
-                    <img src="images/p5.jpg" class="product-img"></img>
+                    <img src="./assets/p5.jpg" class="product-img"></img>
                     <a href="https://www.amazon.in/dp/B08JVD64Q3/ref=cm_sw_r_wa_apa_i_LvcUFbJPB8DW7" style="text-decoration:none;color:black;">
                     <div class="product-content">
                         <h1 class="product-name">Yoga mat</h1>
@@ -59,7 +59,7 @@
             </div>
             <div id="product-results">
                 <div class="product-card">
-                    <img src="images/p6.jpg" class="product-img"></img>
+                    <img src="./assets/p6.jpg" class="product-img"></img>
                     <a href="https://www.amazon.in/HealthyHey-Supplement-Women-100-Chelated/dp/B083RZ69ZN/r" style="text-decoration:none;color:black;">
                     <div class="product-content">
                         <h1 class="product-name">Iron supplement</h1>
