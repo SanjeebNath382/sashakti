@@ -11,31 +11,31 @@
      <img id="header-img" src="assets/icon.png" href="home.php"/>
   </div>
   <nav id="nav-bar">
-    <a class="nav-link" href="#">Check Health Status</a>
-    <a class="nav-link" href="#">Find events/groups</a>
-    <a class="nav-link" href="#">Connect to Doctor/Counsellor</a>
-    <a class="nav-link" href="#">Blog</a>
+    <a class="nav-link" href="MentalAndPhysical.php">Check Health Status</a>
+    <a class="nav-link" href="FindGroup.php">Find events/groups</a>
+    <a class="nav-link" href="ConsultWithDoctor.php">Connect to Doctor/Counsellor</a>
+    <a class="nav-link" href="Blog.php">Blog</a>
   </nav>
 </header>
 <body>
 
   <div id="health-tracker-card">
-    <h1 style="color:white; font-size:72px;">Check your<br> health status</h1>
+    <a href="MentalAndPhysical.php"><h1 style="color:white; font-size:72px;">Check your<br> health status</h1></a>
     <img src="assets/health-track-img.png" id="health-track-img">
   </div>
   <div id="period-tracker-card">
-    <h1 style="color:white; font-size:48px;">Period Tracker</h1>
+    <a href="Tracker.php"><h1 style="color:white; font-size:48px;">Period Tracker</h1></a>
   </div>
   <div>
     <div style="display:flex; justify-content:center;">
       <div id="sub-card">
-        <h1 style="color:white; margin:60px 15px 0px 15px;">Nutrition and Diet Plans</h1>
+       <a href="DietPlans.php"> <h1 style="color:white; margin:60px 15px 0px 15px;">Nutrition and Diet Plans</h1></a>
       </div>
       <div id="sub-card">
-        <h1 style="color:white; margin:60px 15px 0px 15px;">Community Forum</h1>
+        <a href="forum.php"><h1 style="color:white; margin:60px 15px 0px 15px;">Community Forum</h1></a>
       </div>
       <div id="sub-card">
-        <h1 style="color:white; margin:60px 15px 0px 15px;">Wellness Products</h1>
+        <a href="Products.php"><h1 style="color:white; margin:60px 15px 0px 15px;">Wellness Products</h1></a>
       </div>
     </div>
   </div>
