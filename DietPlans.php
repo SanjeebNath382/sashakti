@@ -1,6 +1,6 @@
 <html>
 <head>
-  <link rel="stylesheet" href="consult.css">
+  <link rel="stylesheet" href="./CSS/consult.css">
 </head>
 <body>
     <div id="home-content">
