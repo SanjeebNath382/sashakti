@@ -20,7 +20,7 @@
           else{
             if($row['password']== $password1 ){
               
-              header('location: ./dashboard.php');
+              header('location: ./home.php');
               $_SESSION['username']= $row['username'];
               $_SESSION['id']=$row['userid'];
             }

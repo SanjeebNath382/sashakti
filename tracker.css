@@ -1,0 +1,100 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+*{
+  font-family: 'Roboto Slab', serif;
+  margin:0;
+}
+
+#track-head{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#track-page-img{
+    width:200px;
+}
+#track-input{
+    border-radius:10px;
+    background:#cee6f7;
+    width:70%;
+    height:430px;
+    margin:2% 15%;
+}
+button{
+    width:500px;
+    margin:10px 250px;
+    padding:5px;
+    border-radius:5px;
+    background:white;
+    border:1px solid #212360;
+}
+#suggestion{
+    border-radius:10px;
+    background:#f7dc8f;
+    width:70%;
+    margin:2% 15%;
+}
+#predict{
+    border-radius:10px;
+    background:#fddff9;
+    width:70%;
+    height:100px;
+    margin:2% 15%;
+}
+h1{
+    font-size:64px;
+    color:#212360;
+    margin-right: 100px;
+}
+h2{
+    color:#212360;
+    padding:20px;
+}
+#month{
+    padding:5px;
+    border:1px solid #ff1744;
+    border-radius:5px;
+    color:#ff1744;
+    width:200px;
+}
+#lab{
+    font-size:15px;
+}
+#flow{
+    width:60px;
+    margin:10px 50px;
+    margin-right:10px;
+}
+#mood{
+    width:80px;
+    margin:10px 40px;
+    margin-right:5px;
+}
+.flow-type{
+    margin-left:20px;
+    margin-right:10px;
+    width:20px;
+}
+.flow-label{
+    color:#212360;
+}
+#sug-card{
+    display:flex;
+    justify-content:center;
+}
+#card{
+    border:1px solid white;
+    padding:8px;
+    width:45%;
+    border-radius:8px;
+    background:white;
+    margin:10px;
+    text-align:center;
+}
+.head-card{
+    border:1px solid #f7dc8f;
+    padding:2px;
+    margin:5px;
+    margin-bottom:10px;
+}
