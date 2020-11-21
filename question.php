@@ -10,7 +10,7 @@
     $category= $_POST['category'];
     $qid= uniqid($question);
     $uid= $_SESSION['id'];
-    $sql= "INSERT INTO `sashakti`.`questions` (`qid`, `category`, `text`, `uid`) VALUES ('$qid', '$category', '$question', '$uid');";
+    $sql= "INSERT INTO `sashakti`.`questions` (`qid`, `category`, `text`, `uid`,`date`) VALUES ('$qid', '$category', '$question', '$uid',current_timestamp());";
     if($con->query($sql) == true){
       echo "<h3 style='margin-left:400px;margin-top:20px;color:green' >You question was successfully registered</h3>";
       header('location: ./forum.php');

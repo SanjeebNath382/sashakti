@@ -15,7 +15,7 @@
       $uid= $_SESSION['id'];
       $username= $_SESSION['username'];
       $aid= uniqid($uid);
-      $sql= "INSERT INTO `sashakti`.`answers` (`ansid`, `qid`,`answeredBy`, `text`) VALUES ('$aid', '$qid','$username', '$ans');";
+      $sql= "INSERT INTO `sashakti`.`answers` (`ansid`, `qid`,`answeredBy`, `text`,`date`) VALUES ('$aid', '$qid','$username', '$ans',current_timestamp());";
       if($con->query($sql) == true){
         header('location: ./forum.php');
 

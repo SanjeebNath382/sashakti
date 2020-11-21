@@ -8,10 +8,10 @@
 
 <body>
     <div id="period-tracker-card">
-  <h1 style="color:white; font-size:48px;"><a href="PhysicalHealthForm.php">Physical Health Check</a></h1>
+  <h1 style="color:white; font-size:48px;"><a  style="text-decoration:none;" href="PhysicalHealthForm.php">Physical Health Check</a></h1>
   </div>
   <div id="period-tracker-card">
-    <h1 style="color:white; font-size:48px;"><a href="MentalHealthForm.php">Mental Health Check</a></h1>
+    <h1 style="color:white; font-size:48px;"><a  style="text-decoration:none;" href="MentalHealthForm.php">Mental Health Check</a></h1>
   </div>
   
 </body>
