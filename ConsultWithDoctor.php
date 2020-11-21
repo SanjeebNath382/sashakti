@@ -13,7 +13,7 @@
                      <div class='product-content'>
                         <h1 class='product-name'>Dr Shimali Patle</h1>
                         <h3 style="color:white;">Gynaecologist(M.S.) MBBS</h3>
-                        <button class="doc-button">Connect</Button>
+                        <a href="./video_call/index.php"><button class="doc-button">Connect</Button></a>
                     </div></a>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                      <div class='product-content'>
                         <h1 class='product-name'>Sakshi Bhandarkar</h1>
                         <h3 style="color:white;">Counselor and Therapist</h3>
-                        <button class="doc-button">Connect</Button>
+                        <a href="./video_call/index.php"><button class="doc-button">Connect</Button></a>
                     </div></a>
                 </div>
             </div>
@@ -31,9 +31,9 @@
                 <div class='product-card'>
                 <img src='assets/doc.jpg' class='product-img'></img>
                      <div class='product-content'>
-                        <h1 class='product-name'>Dr Shimali Patle</h1>
-                        <h3 style="color:white;">Gynaecologist(M.S.) MBBS</h3>
-                        <button class="doc-button">Connect</Button>
+                        <h1 class='product-name'>Dr Anjali Patle</h1>
+                        <h3 style="color:white;">Pyschology(M.S.) MBBS</h3>
+                        <a href="./video_call/index.php"><button class="doc-button">Connect</Button></a>
                     </div></a>
                 </div>
             </div>
