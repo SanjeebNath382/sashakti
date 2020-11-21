@@ -51,12 +51,12 @@ button:hover, a:hover {
 </head>
 <body>
 
-
+<h1 style="margin-left:42%;margin-top:5%;color:#ff3256;font-family: Brush Script MT, Brush Script Std, cursive;font-size:50px"><b>My Profile</b></h1><br>
 <div class="card">
  <!-- <img src="person-icon-female-user-profile-avatar-vector-18833553.jpg" alt="User" style="width:100%"> -->
   <br>
   <h2><?php echo $name;?></h2>
-  <p class="title">Patient</p>
+  <p class="title">Student</p>
   <p>Email- admin@gmail.com</p>
   <div style="margin: 24px 0;">
   </div>
